@@ -1,4 +1,5 @@
-docker-presentation
+Docker Presentation
 ===================
 
-A Docker container that sets up my presentation environment
+A Docker container that sets up my presentation environment.
+
